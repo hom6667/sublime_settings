@@ -1,0 +1,42 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+    "always_show_minimap_viewport": true,\
+    "bold_folder_labels": true,\
+    "caret_style": "phase",\
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",\
+    "default_line_ending": "unix",\
+    "draw_minimap_border": true,\
+    "draw_white_space": "all",\
+    "ensure_newline_at_eof_on_save": true,\
+    "fade_fold_buttons": false,\
+    "font_face": "D2Coding",\
+    "font_size": 13,\
+    "highlight_line": true,\
+    "highlight_modified_tabs": true,\
+    "indent_guide_options":\
+    [\
+        "draw_normal",\
+        "draw_active"\
+    ],\
+    "line_padding_bottom": 2,\
+    "line_padding_top": 2,\
+    "overlay_scroll_bars": "enabled",\
+    "rulers":\
+    [\
+        80,\
+        120\
+    ],\
+    "show_encoding": true,\
+    "show_line_endings": true,\
+    "tab_size": 2,\
+    "theme": "Default.sublime-theme",\
+    "translate_tabs_to_spaces": true,\
+    "trim_trailing_white_space_on_save": true,\
+    "word_wrap": true\
+\}}
